@@ -1,0 +1,4 @@
+82 is Passable
+11 is Bad
+25 is Bad
+37 is Bad
